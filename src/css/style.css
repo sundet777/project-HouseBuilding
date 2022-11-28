@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+body {
+    margin: 0;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19, 36px;
+    color: #00000099;
+}
+
+.container {
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+.info {
+    padding-top: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.phone-holder {
+    display: flex;
+}
+
+.text-logo {
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: -0.02em;
+}
+
+.nav-logo {
+    margin-bottom: 30px;
+}
+
+.about-us {
+    margin-bottom: 28px;
+    margin-left: 163px;
+}
+
+.about-us__info {
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.phone {
+    margin-left: 115px;
+    margin-bottom: 35px;
+}
+
+.header_phone {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #212864;
+    text-decoration: none;
+}
+
+.btn-nav {
+    box-sizing: border-box;
+    position: absolute;
+    font-size: 12px;
+    line-height: 14px;
+    text-transform: uppercase;
+    padding: 14px 39px;
+    transition: all .5s;
+    border: 1px solid #212864;
+    border-radius: 25px;
+    color: rgba(33, 40, 100, 1);
+    background: #fff;
+}
+
+.header-icons-img {
+    margin-right: 10px;
+}
+
+.fs-menu .container {
+    max-width: 1540px;
+}
+
+.menu {
+    text-align: center;
+    padding-top: 18px;
+    height: 57px;
+    background: #15193D;
+}
+
+.menu_link {
+    margin-right: 100px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+}
+
+.sub-menu {
+    text-align: center;
+    padding-top: 13px;
+    height: 45px;
+    background: #8C93D1;
+}
+
+.sub-menu_link {
+    margin-right: 120px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    color: #fff;
+}
+
+.first-block {
+    padding-top: 1px;
+    background: url(../images/first-bg.jpg) center center/cover no-repeat;
+    height: 100vh;
+}
+
+.h1-title {
+    margin: 68px 0 16px;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 55px;
+    letter-spacing: 0em;
+    color: white;
+}
+
+.h1-subtitle {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #fff;
+    margin-bottom: 46px;
+}
+
+.Vector {
+    padding-top: 200px;
+}
